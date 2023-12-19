@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=gameWithPi
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=fraction\ estimatePI()
+comment3.params=
+comment3.target=void\ quizGame()
+comment4.params=u\ c
+comment4.target=boolean\ equals(fraction,\ fraction)
+comment5.params=
+comment5.target=fraction\ randomFrac()
+numComments=6

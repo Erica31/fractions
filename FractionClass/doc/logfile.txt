@@ -1,0 +1,38 @@
+Class documentation
+<---- javadoc command: ---->
+C:\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\javafx-base-20.0.1-win.jar;C:\BlueJ\lib\javafx-base-20.0.1.jar;C:\BlueJ\lib\javafx-controls-20.0.1-win.jar;C:\BlueJ\lib\javafx-controls-20.0.1.jar;C:\BlueJ\lib\javafx-fxml-20.0.1-win.jar;C:\BlueJ\lib\javafx-graphics-20.0.1-win.jar;C:\BlueJ\lib\javafx-graphics-20.0.1.jar;C:\BlueJ\lib\javafx-media-20.0.1-win.jar;C:\BlueJ\lib\javafx-media-20.0.1.jar;C:\BlueJ\lib\javafx-swing-20.0.1-win.jar;C:\BlueJ\lib\javafx-web-20.0.1-win.jar;C:\BlueJ\lib\junit-4.12.jar;C:\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\BlueJ\lib\hamcrest-core-1.3.jar;C:\BlueJ\lib\opentest4j-1.2.0.jar;C:\BlueJ\lib\lang-stride.jar;C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass
+-d
+C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\fraction.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\fraction.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\doc\fraction.html...
+C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\fraction.java:24: warning: @param argument "numerator" is not a parameter name.
+     * @param numerator first paramater
+       ^
+C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\fraction.java:25: warning: @param argument "denominator" is not a parameter name.
+     * @param denominator second paramater
+       ^
+Generating C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\doc\package-summary.html...
+Generating C:\Users\2022617\OneDrive - Board of Education of SD 39 (Vancouver)\AP CSA\FractionClass\doc\index.html...
+2 warnings
